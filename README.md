@@ -6,6 +6,15 @@
 <a href="https://nginx.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
+  <img src="https://www.crummy.com/software/BeautifulSoup/bs4_logo.png" alt="bs4" width="40" height="40"/>
+</a>
+<a href="https://docs.python-requests.org/en/latest/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/280533?s=200&v=4" alt="requests" width="40" height="40"/>
+</a>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bladexses21&show_icons=true&locale=en&layout=compact" alt="bladexses21" /></p>
