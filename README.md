@@ -15,6 +15,20 @@
 <a href="https://docs.python-requests.org/en/latest/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/280533?s=200&v=4" alt="requests" width="40" height="40"/>
 </a>
-
+<a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/54810444?s=200&v=4" alt="aiogram" width="40" height="40"/>
+</a>
+<a href="https://docs.telethon.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/LonamiWebs/Telethon/master/docs/_static/img/telethon-logo.svg" alt="telethon" width="40" height="40"/>
+</a>
+<a href="https://discord.com/developers/docs/intro" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discord" width="40" height="40"/>
+</a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+  <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
+</a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
+</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bladexses21&show_icons=true&locale=en&layout=compact" alt="bladexses21" /></p>
