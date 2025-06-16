@@ -3,6 +3,9 @@
 <a href="https://n8n.io/" target="_blank" rel="noreferrer">
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
 </a>
+<a href="https://nginx.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bladexses21&show_icons=true&locale=en&layout=compact" alt="bladexses21" /></p>
