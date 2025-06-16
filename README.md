@@ -28,7 +28,7 @@
   <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>
 </a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg](https://www.svgrepo.com/show/473780/selenium.svg" alt="selenium" width="40" height="40"/>
 </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bladexses21&show_icons=true&locale=en&layout=compact" alt="bladexses21" /></p>
