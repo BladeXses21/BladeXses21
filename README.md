@@ -19,7 +19,7 @@
   <img src="https://avatars.githubusercontent.com/u/54810444?s=200&v=4" alt="aiogram" width="40" height="40"/>
 </a>
 <a href="https://docs.telethon.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/LonamiWebs/Telethon/master/docs/_static/img/telethon-logo.svg" alt="telethon" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/telethon.svg" alt="telethon" width="40" height="40"/>
 </a>
 <a href="https://discord.com/developers/docs/intro" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discord" width="40" height="40"/>
