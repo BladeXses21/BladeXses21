@@ -99,10 +99,10 @@
   <img src="https://www.notion.so/front-static/logo-ios.png" alt="notion" width="40" height="40"/>
 </a>
 <a href="https://developers.google.com/sheets/api" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/google-sheets.svg" alt="google sheets" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/49px-Google_Sheets_logo_%282014-2020%29.svg.png?20201024100414" alt="google sheets" width="40" height="40"/>
 </a>
 <a href="https://developers.google.com/google-ads/api/docs/start" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/google-ads-2020.svg" alt="google ads api" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/120px-Google_Ads_logo.svg.png?20190505170132" alt="google ads api" width="40" height="40"/>
 </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bladexses21&show_icons=true&locale=en&layout=compact" alt="bladexses21" /></p>
