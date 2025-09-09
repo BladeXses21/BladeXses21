@@ -89,5 +89,20 @@
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/473780/selenium.svg" alt="selenium" width="40" height="40"/>
 </a>
+<a href="https://n8n.io" target="_blank" rel="noreferrer">
+  <img src="https://n8n.io/favicon-32x32.png" alt="n8n" width="40" height="40"/>
+</a>
+<a href="https://www.odoo.com/documentation" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="odoo" width="40" height="40"/>
+</a>
+<a href="https://www.notion.so/help/guides" target="_blank" rel="noreferrer">
+  <img src="https://www.notion.so/front-static/logo-ios.png" alt="notion" width="40" height="40"/>
+</a>
+<a href="https://developers.google.com/sheets/api" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/google-sheets.svg" alt="google sheets" width="40" height="40"/>
+</a>
+<a href="https://developers.google.com/google-ads/api/docs/start" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/google-ads-2020.svg" alt="google ads api" width="40" height="40"/>
+</a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bladexses21&show_icons=true&locale=en&layout=compact" alt="bladexses21" /></p>
