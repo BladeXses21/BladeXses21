@@ -89,9 +89,6 @@
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/473780/selenium.svg" alt="selenium" width="40" height="40"/>
 </a>
-<a href="https://n8n.io" target="_blank" rel="noreferrer">
-  <img src="https://n8n.io/favicon-32x32.png" alt="n8n" width="40" height="40"/>
-</a>
 <a href="https://www.odoo.com/documentation" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/odoo.svg" alt="odoo" width="40" height="40"/>
 </a>
